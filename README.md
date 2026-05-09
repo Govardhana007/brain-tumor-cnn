@@ -1,3 +1,5 @@
+Project is live : https://huggingface.co/spaces/ramg2366/brain-tumor-cnn
+
 ## 🔬 How This Project Works — Step by Step
 
 This project builds a **brain tumor classifier** that takes an MRI image as input and predicts which of 4 tumor types it shows. Here's exactly how every part works:
@@ -140,5 +142,6 @@ python src/predict.py --folder path/to/mri_folder/ --model efficientnet
 Image       : patient_042_mri.jpg
 Prediction  : PITUITARY
 Confidence  : 97.3%
+
 
 
